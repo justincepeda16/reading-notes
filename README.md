@@ -9,4 +9,4 @@
 > 2. Even though I don't know everything, it is possible that one day I will, as long as I keep trying.
 > 3. I'm here to improve, not impress.
 
-### For more information, see [Day 1 Notes](https://github.com/justincepeda16/reading-notes/day-1-notes)
+### For more information, see [Day 1 Notes](https://justincepeda16.github.io/reading-notes/day-1-notes)
