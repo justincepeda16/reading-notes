@@ -1,6 +1,6 @@
 # reading-notes
 
-## by Justin C
+## by [Justin C](https://github.com/justincepeda16)
 ***
 - In my opinion, **Growth Mindset** is where you learn to react to situations, discussions, and even your own thoughts & actions to where you encourage opportunities to be better at something instead of reacting negatively or being self critical.
 
