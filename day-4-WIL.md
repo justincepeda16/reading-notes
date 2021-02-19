@@ -13,6 +13,7 @@ According to Chapter 18 in the book, here is what I briefly covered:
 * Visual hierarchy
 * Grouping and Similarity
 * Designing Navigation
+
 - In Chapter 1, we briefly cover general HTML Structure
 - In Chapter 17, it goes over the concept of HTML5
 - In Chapter 8, it goes over extra markup, specifying different versions of HTML, identifying & grouping elements, and more.
