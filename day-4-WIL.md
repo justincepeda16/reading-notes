@@ -1,6 +1,6 @@
 # Day 4 Notes - What I Learned
 
-## On Day 3, I learned the following:
+## On Day 4, I learned the following:
 According to Chapter 18 in the book, here is what I briefly covered: 
 * Who is the site for
 * Why people visit your website
