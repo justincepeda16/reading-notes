@@ -17,3 +17,12 @@ For Day 6, I had covered the following:
 * Javascript uses statements and comments
 * HTML is a content layer, CSS is a presentation layer, and JS is a behavioral layer
 * You can use JS either as an external document or inline
+
+---
+
+After watching the video playlist of How Computers Work, I learned the following:
+
+* What Makes a Computer, a computer
+* Binary & Data
+* Hardware & Software
+* and much more!
