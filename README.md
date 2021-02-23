@@ -9,6 +9,7 @@
 * [Day 3](https://justincepeda16.github.io/reading-notes/day-3-WIL)
 * [Day 4](https://justincepeda16.github.io/reading-notes/day-4-WIL)
 * [Day 5 and 6](https://justincepeda16.github.io/reading-notes/day-5-6-WIL)
+* [Day 7](https://justincepeda16.github.io/reading-notes/day-7-WIL)
 
 > In my opinion, **Growth Mindset** is where you learn to react to situations, discussions, and even your own thoughts & actions to where you encourage opportunities to be better at something instead of reacting negatively or being self critical.
 
