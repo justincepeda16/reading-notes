@@ -2,6 +2,9 @@
 
 ## On Day 8, I learned the following:
 
-* You can use JavaScript to make web pages more interactive, like accessing content, modifying content, program certain rules, or react to events
-* There is just one string operator: the + symbol.
-* Functions let you group a series of statements together to perform a specific task
+* Understanding comparison operators (with evaluating conditions).
+* Understanding logical operators.
+* Loops check conditions.
+* There are three types of loops: For, While, and Do While.
+* A For Loop uses a counter as a condition.
+* The difference between a While Loop & a Do While Loop is that the statements in the code block come BEFORE the condition.
